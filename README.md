@@ -37,5 +37,5 @@ Please log tickets and issues at our [Puppet G-wan](https://github.com/rhoml/pup
 
 LICENSE
 ========
-MIT License refer to [LICENSE](https://github.com/rhoml/puppet-gwan/LICENSE).
+MIT License refer to [LICENSE](https://github.com/rhoml/puppet-gwan/blob/master/LICENSE).
 
